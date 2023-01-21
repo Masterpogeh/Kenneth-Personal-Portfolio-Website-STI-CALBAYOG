@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="41" viewBox="0 0 113 41">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 66.667px;
+        font-family: Poppins;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        font-size: 83.333px;
+        font-family: Oregano;
+      }
+    </style>
+  </defs>
+  <g id="K">
+    <text id="_" data-name="{" class="cls-1" transform="matrix(0.473, 0, 0, 0.472, 3.409, 32.372)">{</text>
+    <image id="_2" data-name="&lt;" x="14" y="3" width="27" height="36" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAkCAYAAAB4+EEtAAACdElEQVRIia2XS4iOYRTHf58hokRKYcwoQzLG5zKDYYrCgo2UxISN1ZRLSdnYsbW0saPcZpox8S3ETMZGFAm5hcVsbQzjUhh06v/V5+s9z3s99W7ec97nd855znnO+5RKG9dSgBwFTgN/gV81y00CZgAPgFOTCwB1A2eBmY7+GXASeJUXtg24IO+j5AWwB3iPwswqS4FzAZAB9ldBeWBtwFVgpaN/rPS+rH2ZJY1dwGWgydGPAfuAD/WKtLAOoB+YGwDtjQKRMo2Wst4A6DtwCLjrLZAUZhnoAxY5+nHgIHArtEhS2E1Vnwc6DAzELRIHs0geAjsc/VMVTF+8v+ECaQYGgbKjt2I4AzxPAiIQ2TylxQN9BnqAG0lBHmyB9miN880X4BhwLQ0oCjYNOA+0O/bfBLqUFlQPm6U+2uXYjgIngItZQNQUSJNA6wO23ZpLmcUiOyBvPZANwyNqgVxisJ3AlsAiE4r6TxEwG+nHAzZWNBVgSl5YQ2nh/B+aP2+BDc54t3Zo1dn3OyusWo2WqiuKctyx3Z3k/AuJRVarfiPPt0d8UwJagFXA9SJgqLwt4s3ON8sE7C0CZjICTAc2BYAr0gI9mMkQMBXodM7Q5cDiNIdxCGYyDHwEtjqlXxawkqQP42AmT4CvKpqoCMs67m7HtUUSmMkjDdPVjt4KplGZ+JkXhjxvjAHOAe7VXS4ywSbkeYtOkyhp1wk0EpXSNDCUooraotOxWQfM1v/jf0WTFoY8HlZbdDk2HXLoTl4YuvQNaY+8OWjvG5TSXLCqWJXab/mSCJ21iU0RA94vAmbj6Z32z+5pn/RTVH1sz+x6NQq8/geXq3gdRp0HTwAAAABJRU5ErkJggg=="/>
+  </g>
+  <text id="enneth" class="cls-2" transform="matrix(0.415, 0, 0, 0.415, 34.735, 29.779)">enneth</text>
+</svg>
